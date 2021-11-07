@@ -15,4 +15,4 @@ function findPrime(...numbers) {
     }
   }
 }
-findPrime(6, 128, 2, 45, 23, 5, 11, 15)
+findPrime(6, 128, 2, 45, 23, 5, 11, 15,10)
